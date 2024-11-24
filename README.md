@@ -1,2 +1,1 @@
-Resultado:
-https://github.com/GabrielKLBr/simpleManimAnim/blob/main/CoolAnimation.mp4
+Resultado:https://github.com/GabrielKLBr/simpleManimAnim/blob/main/CoolAnimation.mp4
